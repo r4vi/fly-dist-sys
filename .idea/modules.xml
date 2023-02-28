@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fly-dist-sys.iml" filepath="$PROJECT_DIR$/fly-dist-sys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/maelstrom-unique-ids.iml" filepath="$PROJECT_DIR$/maelstrom-unique-ids.iml" />
+    </modules>
+  </component>
+</project>
